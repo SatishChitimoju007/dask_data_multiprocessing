@@ -1,6 +1,3 @@
 Multiprocessing framework - Dask :
 ==================================
-> Partision our pandas Dataframe and apply the partision function to all the partisions, while using all the CPU or GPU core's on your machin.
-> This is very helpful for text data processing in Applications
-> Processing functions can not be easly vectorize
-> and also save our money while using cloud computing resources on CPU or GPU time bases.
+Partition our Pandas DataFrame and apply the partition function to all the partitions, utilizing all the CPU or GPU cores on your machine. This is particularly beneficial for text data processing in applications. Processing functions cannot be easily vectorized, but this approach also saves money when utilizing cloud computing resources on a CPU or GPU time basis.
